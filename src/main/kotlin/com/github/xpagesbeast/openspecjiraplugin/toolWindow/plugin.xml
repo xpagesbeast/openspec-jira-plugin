@@ -1,0 +1,8 @@
+<actions>
+
+    <action
+        id="OpenSpec.ExploreJira"
+        class="com.company.ExploreJiraAction"
+        text="Explore Jira Story"/>
+
+</actions>
